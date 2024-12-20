@@ -3,6 +3,7 @@
 
 // Task 1: Comment Your JavaScript Code
 // Write a single-line comment below this line:
+
 /* 
     commit about me 
 
@@ -61,12 +62,9 @@ function run() {
   let foo = 20;
   foo = 60;
 
-  console.log(foo, bar);
+  console.log(foo.bar);
 }
 // Task 10: Declare a Read-Only Variable with the const Keyword
 // Declare a constant variable `PI` and assign it the value 3.14:
 
-const fc = "all";
-let cam = "for you";
-cam = "for free";
-console.log(fc.cam);
+const PI = 3.14;
